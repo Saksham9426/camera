@@ -19,4 +19,4 @@ st.title('camera try')
 wc(key='key',rtc_configuration={
       "iceServers": token.ice_servers
   })
-st.audio('https://music.youtube.com/watch?v=sKK6MOdXrG0&list=OLAK5uy_k7Dmxf1eo5ViOyLf7aUJLXOlLj4DmpWS8')
+st.player('https://music.youtube.com/watch?v=sKK6MOdXrG0&list=OLAK5uy_k7Dmxf1eo5ViOyLf7aUJLXOlLj4DmpWS8')
