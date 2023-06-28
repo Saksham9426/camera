@@ -24,4 +24,4 @@ def song():
       time.sleep(20)
       return 1
 
-
+eel.start('new.html')
